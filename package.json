@@ -1,0 +1,17 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "bankist front app",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul sehrawat",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0"
+  }
+}
